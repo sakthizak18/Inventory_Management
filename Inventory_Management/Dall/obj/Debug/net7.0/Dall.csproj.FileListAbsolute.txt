@@ -1,0 +1,5 @@
+C:\Projects_Github\Inventory_Management\Dall\obj\Debug\net7.0\Dall.csproj.AssemblyReference.cache
+C:\Projects_Github\Inventory_Management\Dall\obj\Debug\net7.0\Dall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_Github\Inventory_Management\Dall\obj\Debug\net7.0\Dall.AssemblyInfoInputs.cache
+C:\Projects_Github\Inventory_Management\Dall\obj\Debug\net7.0\Dall.AssemblyInfo.cs
+C:\Projects_Github\Inventory_Management\Dall\obj\Debug\net7.0\Dall.csproj.CoreCompileInputs.cache
